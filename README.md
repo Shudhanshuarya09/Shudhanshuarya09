@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shudhanhu Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b761193964dmj7406b8ujanl15qde7k8pziybe1qkwyow&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshuarya09&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshuarya09" /> </p>
 
