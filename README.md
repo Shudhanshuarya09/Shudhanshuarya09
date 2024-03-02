@@ -1,3 +1,4 @@
+![logo](https://github.com/Shudhanshuarya09/Shudhanshuarya09/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shudhanhu Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
