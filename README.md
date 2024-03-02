@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development & Software Development**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5503/portfolio2.html](http://127.0.0.1:5503/portfolio2.html)
+- 👨‍💻 All of my projects are available at [https://shudhanshuarya09.github.io/Portfolio/](https://shudhanshuarya09.github.io/Portfolio/)
 
 - 📫 How to reach me **shudhanshuarya111@gmail.com**
 
